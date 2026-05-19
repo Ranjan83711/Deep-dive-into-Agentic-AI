@@ -1,5 +1,3 @@
-# Deep-dive-into-Agentic-AI
-
 # AGENTIC AI: COMPLETE HANDBOOK
 ## From Beginner to Advanced - Interview Ready Technical Guide
 
